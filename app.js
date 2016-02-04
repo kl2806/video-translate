@@ -49,7 +49,7 @@ require('./scripts/routes')(app, passport);
 
 server.listen(port, function () {
     console.log("*****************************");
-    console.log("* Rayos running at port: " + port + " *");
+    console.log("* Translate running at port: " + port + " *");
     console.log("*****************************");
 });
 
